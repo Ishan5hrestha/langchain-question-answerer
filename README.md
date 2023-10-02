@@ -15,7 +15,7 @@ Before running the script, make sure you have the following installed:
 You can install the required packages using `pip`:
 
 ```bash
-pip install PyPDF2 langchain openai dotenv
+pip install PyPDF2 langchain openai dotenv tiktoken
 ```
 
 ## Setup
